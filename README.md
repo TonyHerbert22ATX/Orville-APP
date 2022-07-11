@@ -1,8 +1,8 @@
-<h1 align="center">Orville Application to find species | <a href="https://tonyherbert22atx.github.io/A-Simple-Calculator/">Visit here!</a></h1>
+<h1 align="center">Orville Application to find species | <a href="https://tonyherbert22atx.github.io/Orville-APP/">Visit here!</a></h1>
 
 <div align="center">
 
-![an animation of using the calculator](calc.gif)
+![an animation of using the species application](orvilleapp.gif)
 
 </div>
 
