@@ -6,12 +6,12 @@
 
 </div>
 
-<h3 align="center">Simple calculator website as my first attempt to work with OOP.</h3>
+<h3 align="center">Species application using an API I built</h3>
 <br>
 
 ## How It's Made:
 
-This was my first attempt at a simple calculator, I still was not able to implement OOP completely but I was able to make it functional. 
+This was my first attempt at creating an application using an API I created and hosted on Heroku.
 
 <h2 align="center">Techs used:</h2>
 <br>
@@ -27,5 +27,6 @@ This was my first attempt at a simple calculator, I still was not able to implem
 
 ## Optimizations
 
-I'm planning to add a conditional to the code that prevents the user from entering a second ```.``` to the input if a number in the operation is already a decimal. 
+I am planning to add more species to this application. 
+I also plan to add more infomration for each species. 
 
