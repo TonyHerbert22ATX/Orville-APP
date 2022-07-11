@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![an animation of using the calculator](calc.gif)
+![an animation of using the species application](orvilleapp.gif)
 
 </div>
 
