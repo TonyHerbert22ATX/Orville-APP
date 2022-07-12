@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![an animation of using the species application](orvilleappNEW.gif)
+![an animation of using the species application](orville.gif)
 
 </div>
 
